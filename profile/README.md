@@ -9,7 +9,7 @@
 
 Christian Pure makes prayers, Bible studies, Christian guidance, courses and free tools for families, in eleven languages, at [christianpure.com](https://christianpure.com/). Here we share the data behind our Bible tools and the code of our AI connector, so that developers, teachers and researchers can build on them too.
 
-**[bible-data](https://github.com/christianpure/bible-data)** holds the tables behind our free tools: the places named in the Gospels and Acts with their names in eleven languages, 6,699 Bible subjects and their verses, Paul's journeys stop by stop, 378 saints and their feast days, 23 churches compared on 55 questions, and the dates of Easter from 1900 to 2099. You may use all of it under CC BY 4.0, and the Easter dates with no conditions at all.
+**[bible-data](https://github.com/christianpure/bible-data)** holds the tables behind our free tools: the 1,246 places the Bible names, with their names in eleven languages, over 6,500 Bible subjects and their verses, Paul's journeys stop by stop, 378 saints and their feast days, 23 churches compared on 55 questions, and the dates of Easter from 1900 to 2099. You may use all of it under CC BY 4.0, and the Easter dates with no conditions at all.
 
 **[connector](https://github.com/christianpure/connector)** lets AI assistants such as Claude and ChatGPT find our prayers, Bible verses and articles. It is free, needs no key, and is listed in the official MCP registry.
 
