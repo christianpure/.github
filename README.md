@@ -1,3 +1,3 @@
 # christianpure/.github
 
-The organisation profile for [Christian Pure](https://christianpure.com/) on GitHub: `profile/README.md` is the page shown at [github.com/christianpure](https://github.com/christianpure), and `assets/` holds the logo it uses, from the Christian Pure design system.
+Assets for [Christian Pure](https://christianpure.com/) on GitHub: `assets/` holds the logo the READMEs load. Since 20 Nov 2026 `christianpure` is a personal account, so its profile page lives in [christianpure/christianpure](https://github.com/christianpure/christianpure); `profile/README.md` here is the same text, from the Christian Pure design system.
